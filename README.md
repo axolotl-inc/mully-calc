@@ -1,6 +1,8 @@
 # Mully Caclulator!
 A program that caclulates wether or not your allowed to sniff the Mully.
 
+`NOTE: The compiled version (the file not in "src") is for Linux / macOS.`
+
 example:
 
 ```Mully Calculater 1.0!
