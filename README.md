@@ -1,5 +1,5 @@
 # Mully Caclulator!
-A program the caclulates wether or not your allowed to sniff the Mully.
+A program that caclulates wether or not your allowed to sniff the Mully.
 
 example:
 
